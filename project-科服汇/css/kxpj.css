@@ -168,3 +168,62 @@ body { background: #f9f9f9; }
 .kxpj_kpjd_list2 .kxpj_kpjd_list_star { padding-top: 48px; }
 .kxpj_kpjd_list2 .kxpj_kpjd_list_r_juli { margin-left: 12px; }
 .kxpj_kpcg_right ul li { text-align: center; }
+
+/*科普小云*/
+#address { height: 3em; line-height: 3em; }
+.box-xiaoyun { height: 505px; }
+.box-xiaoyun .article { background: #F0F0F0; border-radius: 5px; }
+.edit { background: #EFEFEF; padding: 10px; }
+.edit img { vertical-align: middle; }
+.btn-send { width: 109px; height: 30px; line-height: 30px; text-align: center; background: #017FEF; border: none; color: #fff; cursor: pointer; }
+.box-sousuo { padding: 5px; height: 30px; background: #017FEF; }
+.box-sousuo input[type='text'] { width: 262px; height: 26px; }
+.box-sousuo button { width: 85px; height: 26px; line-height: 26px; text-align: center; background: #017FEF; color: #fff; border: none; font-family: "宋体"; }
+.box-xgwt { padding: 7px; }
+.box-xgwt a { display: inline-block; width: 174px; height: 35px; line-height: 35px; text-align: center; color: #fff; background: #FF780B; }
+.box-xgwt .right { background: #017FEF; }
+.box-rmwt h2 { height: 30px; line-height: 30px; background: #017FEF; color: #fff; text-align: center; font-size: 14px; font-family: "宋体"; }
+.box-rmwt li { padding: 0 2em; line-height: 3.8em; background: url(../images/kxpj/li.fw.png) 14px center no-repeat; }
+.box-rmwt li a { font-size: 14px; font-family: "宋体"; }
+
+/*翻页 css begin*/
+.ac_page { width: 100%; text-align: center; margin: 20px auto 0 auto }
+.ac_talk_page { width: auto; }
+.ac_page ul { width: auto; margin: 0 auto; text-align: center; display: inline-block; }
+.ac_page ul li { display: inline; height: 26px; line-height: 26px; }
+.ac_page ul li span { display: inline; color: #999; margin: 0 2px; height: 26px; line-height: 26px; }
+.ac_page ul li span a,
+.ac_page ul li span.link_current { display: inline; color: #fff; text-decoration: none; background: #666; text-decoration: none; padding: 6px 12px; }
+.ac_page ul li span a:hover,
+.ac_page ul li span.link_current { background: #1369C0; text-decoration: none; color: #FFF }
+.ac_page ul li span.no_link { background: #999; padding: 6px 12px; color: #fff; height: 30px; }
+.ac_page2 ul li span a,
+.ac_page2 ul li span.no_link { background: #fff; color: #333; border: 1px solid #ddd; }
+.ac_span5 { font-size: 14px; font-weight: bold; }
+.ac_text1 { width: 30px; height: 19px; border: 1px solid #ccc; margin: 2px 6px 0 6px; }
+
+/*翻页 css end*/
+
+/*科技动态*/
+.box-kjdt h2 { height: 40px; background: #3C7FBE; line-height: 40px; color: #fff; }
+.box-kjdt strong { margin-left: 1em; font-size: 18px; color: #fff; }
+.box-kjdt .more { margin-right: 1em; font-size: 14px; color: #fff; font-family: "宋体"; }
+.box-kjdt ul li { width: 100%; padding-left: 2em; line-height: 3em; background: url(../images/kxpj/li-kjdt.fw.png) 1em center no-repeat; }
+.box-kjdt ul li a { font-size: 14px; }
+.list-kpbk li { width: 100%; line-height: 3.6em; background: url(../images/kxpj/li-kpbk.fw.png) 0 center no-repeat; border-bottom: 1px dashed #ddd; }
+.list-kpbk li a { margin-left: 1em; float: left; font-size: 14px; font-family: "宋体"; }
+.list-kpbk li span { float: right; font-size: 14px; font-family: "宋体"; color: #999; }
+
+/*列表页-分类*/
+.list-kpbk2 li { width: 100%; background: #3C7FBE; border-bottom: 1px solid #fff; }
+.list-kpbk2 li a { display: block; width: 100%; text-indent: 110px; height: 60px; line-height: 60px; color: #fff; font-size: 18px; background: url(../images/kxpj/kpbk.fw.png) 70px center no-repeat; text-decoration: none; }
+.list-kpbk2 li.active,
+.list-kpbk2 li:hover { background: #FF6D0B; }
+
+/*详细页*/
+#atricle .h1 { font-size: 22px; text-align: center; height: 3em; line-height: 3em; }
+#atricle .time { text-align: center; color: #999; height: 3em; line-height: 3em; border-bottom: 1px solid #3C7FBE; }
+.text-center { text-align: center; }
+#atricle .content { padding: 6em 0; }
+#atricle .content img { margin: 0 auto; }
+#atricle .content p { font-size: 14px; font-family: "宋体"; text-indent: 2em; line-height: 2em; }
